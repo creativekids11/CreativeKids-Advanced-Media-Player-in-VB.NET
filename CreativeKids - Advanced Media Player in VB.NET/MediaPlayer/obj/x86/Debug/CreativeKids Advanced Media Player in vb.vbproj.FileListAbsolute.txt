@@ -1,0 +1,17 @@
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\bin\Debug\TechViewHD-AdvancedMediaPlayer.exe.config
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\bin\Debug\TechViewHD-AdvancedMediaPlayer.exe
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\bin\Debug\TechViewHD-AdvancedMediaPlayer.pdb
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\bin\Debug\TechViewHD-AdvancedMediaPlayer.xml
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\CreativeKids Advanced Media Player in vb.vbprojResolveAssemblyReference.cache
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\UserControl1.baml
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\UserControl1.g.vb
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\TechViewHD-AdvancedMediaPlayer_Content.g.vb
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\TechViewHD-AdvancedMediaPlayer_MarkupCompile.cache
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\TechViewHD-AdvancedMediaPlayer.g.resources
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\TechViewHD_Advanced_Media_Player.AboutForm.resources
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\TechViewHD_Advanced_Media_Player.Form1.resources
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\TechViewHD_Advanced_Media_Player.Resources.resources
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\CreativeKids Advanced Media Player in vb.vbproj.GenerateResource.Cache
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\TechViewHD-AdvancedMediaPlayer.exe
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\TechViewHD-AdvancedMediaPlayer.xml
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\TechViewHD-AdvancedMediaPlayer.pdb

@@ -1,0 +1,20 @@
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\obj\x86\Debug\UserControl1.baml
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\obj\x86\Debug\UserControl1.g.vb
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\obj\x86\Debug\TechViewHD_Advanced_Media_Player.Form1.resources
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\obj\x86\Debug\TechViewHD_Advanced_Media_Player.Resources.resources
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\obj\x86\Debug\TechViewHD Advanced Media Player in vb.vbproj.GenerateResource.Cache
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\bin\Debug\TechViewHD-AdvancedMediaPlayer.exe.config
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\bin\Debug\TechViewHD-AdvancedMediaPlayer.exe
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\bin\Debug\TechViewHD-AdvancedMediaPlayer.pdb
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\bin\Debug\TechViewHD-AdvancedMediaPlayer.xml
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\obj\x86\Debug\TechViewHD-AdvancedMediaPlayer_Content.g.vb
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\obj\x86\Debug\TechViewHD-AdvancedMediaPlayer_MarkupCompile.cache
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\obj\x86\Debug\TechViewHD-AdvancedMediaPlayer.g.resources
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\obj\x86\Debug\TechViewHD-AdvancedMediaPlayer.exe
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\obj\x86\Debug\TechViewHD-AdvancedMediaPlayer.xml
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\obj\x86\Debug\TechViewHD-AdvancedMediaPlayer.pdb
+C:\Users\Nathan\Documents\Visual Studio 2010\Projects\TechViewHD Advanced Media Player in vb\TechViewHD Advanced Media Player in vb\obj\x86\Debug\TechViewHD_Advanced_Media_Player.AboutForm.resources
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\bin\Debug\TechViewHD-AdvancedMediaPlayer.exe.config
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\TechViewHD-AdvancedMediaPlayer.exe
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\TechViewHD-AdvancedMediaPlayer.xml
+D:\youtube\TechViewHD - Advanced Media Player in VB.NET\obj\x86\Debug\TechViewHD-AdvancedMediaPlayer.pdb
